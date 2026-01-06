@@ -1,29 +1,56 @@
 # 🛒 E-commerce Product Page
 
-This project is a simple and responsive **E-commerce Product Page** created as part of **Task 2** of the internship.  
-It showcases a single product with essential details and a clean, modern user interface.
+This project is a responsive E-commerce Product Page developed as part of Task 2 of my Web Development Internship.
+
+---
+
+## 📄 Description
+
+This page displays a product with essential details such as image, price, rating, description, and quantity selection with an interactive Add to Cart button.
 
 ---
 
 ## 🚀 Features
 
-- Product image display
-- Product name and description
-- Price display
-- Product rating
-- Quantity selector
-- Add to Cart button
-- Modern and professional UI design
+- Product image and information layout  
+- Rating and pricing display  
+- Quantity selection input  
+- Add to Cart interaction  
+- Fully responsive design  
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠 Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript (Basic)
+- HTML5  
+- CSS3  
+- JavaScript  
 
 ---
 
-## 📁 Project Structure
+## 🔗 Live Demo
+
+https://catherinajercy2007.github.io/ecommerce-product-page/
+
+---
+
+## 📂 Repository
+
+https://github.com/catherinajercy2007/ecommerce-product-page
+
+---
+
+## 📌 Key Learnings
+
+- UI layout structuring  
+- Responsive design techniques  
+- Styling modern components  
+- Basic JavaScript interactivity  
+
+---
+
+## 🙏 Acknowledgement
+
+Thanks to my internship mentors for their support and feedback.
+
 
